@@ -34,7 +34,7 @@ Cada estado do semáforo está associado a uma saída específica, que indica ao
 
 ### 4. Saídas Associadas aos Estados
 - Cada estado tem uma saída correspondente.
-- 
+  
 # Por que usar o semáforo como exemplo?
 
 - **Simplicidade**: O semáforo é um sistema fácil de entender e visualizar, apresentando poucos estados e transições.
